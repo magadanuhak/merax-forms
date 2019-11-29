@@ -1,8 +1,5 @@
 <?php
-
-
 namespace MeraxForms\Components;
-
 
 abstract class Component
 {
